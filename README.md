@@ -7,11 +7,12 @@
 
 - 📝 I regularly write articles on [https://twoshar.medium.com/](https://twoshar.medium.com/)
 
-- 💬 Ask me about **React, JavaScript and all things Web.**
+- 💬 Ask me about **JavaScript, React and all things Web.**
 
 - 📫 How to reach me **tushardahiya84@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -33,5 +34,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
