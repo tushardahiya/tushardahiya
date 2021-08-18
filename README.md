@@ -33,7 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushardahiya&&count_private=true&?show_icons=true&locale=en&theme=tokyonight" alt="tushardahiya" /></p>
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
