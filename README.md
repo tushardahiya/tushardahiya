@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tusharontheedge" target="blank"><img src="https://img.shields.io/twitter/follow/tusharontheedge?logo=twitter&style=for-the-badge" alt="tusharontheedge" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [tusharsportfolio.web.app](https://tusharsportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [tushardahiya.com](https://tushardahiya.com/)
 
 - 📝 I regularly write articles on [https://twoshar.medium.com/](https://twoshar.medium.com/)
 
