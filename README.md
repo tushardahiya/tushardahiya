@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">Front-end web developer with experience building single-page React applications and a knack for creating attractive user interfaces.</h3>
+<h3 align="center">Software developer with a track record of building successful React Native Apps and React Websites. Committed to delivering innovative and high-quality software solutions and creating scalable and efficient applications that provide exceptional user experiences.</h3>
 
 <p align="left"> <a href="https://twitter.com/tusharontheedge" target="blank"><img src="https://img.shields.io/twitter/follow/tusharontheedge?logo=twitter&style=for-the-badge" alt="tusharontheedge" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://twoshar.medium.com/](https://twoshar.medium.com/)
 
-- 💬 Ask me about **JavaScript, React and all things Web.**
+- 💬 Ask me about **Javascript, React, React Native and all things Web.**
 
 - 📫 How to reach me **tushardahiya84@gmail.com**
 
