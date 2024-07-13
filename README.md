@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">Software developer with a track record of building successful React Native Apps and React Websites. Committed to delivering innovative and high-quality software solutions and creating scalable and efficient applications that provide exceptional user experiences.</h3>
+<h3 align="center">Don't give it to me easy, I like a little challenge. Winning feels better when you take a little damage</h3>
 
 <p align="left"> <a href="https://twitter.com/tusharontheedge" target="blank"><img src="https://img.shields.io/twitter/follow/tusharontheedge?logo=twitter&style=for-the-badge" alt="tusharontheedge" /></a> </p>
 
