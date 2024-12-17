@@ -10,6 +10,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentry: Get answers for your crashes](https://twoshar.medium.com/sentry-get-answers-for-your-crashes-cdf47be550e?source=rss-54ff6f58aba3------2)
+- [React + Firebase Hosting: A Beginner’s Guide](https://twoshar.medium.com/react-firebase-hosting-a-beginners-guide-69c18c56cd0b?source=rss-54ff6f58aba3------2)
+- [Elevate React with Redux](https://twoshar.medium.com/elevate-react-with-redux-dd848803f9ff?source=rss-54ff6f58aba3------2)
+- [Git: Explained the ELI5 way](https://twoshar.medium.com/git-explained-the-eli5-way-ce75ba38d954?source=rss-54ff6f58aba3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
