@@ -1,30 +1,68 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">designing and developing scalable, high-performance web and mobile applications</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [tushardahiya.com](tushardahiya.com)
+# Tushar Dahiya
 
-- 💬 Ask me about **all things web & apps**
+**Senior Software Engineer** &nbsp;·&nbsp; React • Next.js • React Native
 
-- 📫 How to reach me **tushardahiya84@gmail.com**
+Building fast, scalable web &amp; mobile products — from architecture to production.
 
-# Blog posts
+[![Portfolio](https://img.shields.io/badge/Portfolio-tushardahiya.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://tushardahiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tushar--dahiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-dahiya)
+[![Medium](https://img.shields.io/badge/Medium-@twoshar-000000?style=flat-square&logo=medium&logoColor=white)](https://twoshar.medium.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tushardahiya84@gmail.com)
 
-<!-- BLOG-POST-LIST:START -->
-- [Sentry: Get answers for your crashes](https://twoshar.medium.com/sentry-get-answers-for-your-crashes-cdf47be550e?source=rss-54ff6f58aba3------2)
-- [React + Firebase Hosting: A Beginner’s Guide](https://twoshar.medium.com/react-firebase-hosting-a-beginners-guide-69c18c56cd0b?source=rss-54ff6f58aba3------2)
-- [Elevate React with Redux](https://twoshar.medium.com/elevate-react-with-redux-dd848803f9ff?source=rss-54ff6f58aba3------2)
-- [Git: Explained the ELI5 way](https://twoshar.medium.com/git-explained-the-eli5-way-ce75ba38d954?source=rss-54ff6f58aba3------2)
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tushar-dahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-dahiya" height="30" width="40" /></a>
-<a href="https://medium.com/@twoshar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@twoshar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 👋 About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushardahiya&show_icons=true&locale=en&layout=compact" alt="tushardahiya" /></p>
+Senior Software Engineer with nearly 5 years building consumer-facing web and mobile products. I own **React Native development end-to-end as the sole mobile engineer**, architect micro-frontends and design systems, and care a lot about performance, reliability, and code other engineers enjoy working with. I've shipped for a **Fortune 500 client** and multiple enterprise customers.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushardahiya&show_icons=true&locale=en" alt="tushardahiya" /></p>
+Currently exploring **Senior Software Engineer roles** at product companies.
+
+### 🛠️ Tech I reach for
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### 🔭 What I'm working on
+
+- 📱 Architecting a consumer **event memory-sharing app** as the sole React Native engineer — concurrent media upload pipeline, iOS App Clips, universal deep linking, and a CMS-driven UI layer
+- 🧠 Going deep on **frontend system design** and data structures &amp; algorithms
+- ✍️ Writing about web &amp; mobile engineering on [Medium](https://twoshar.medium.com)
+
+### 💼 Selected work
+
+> Most of my recent work lives in private client repositories. A few highlights:
+
+| Project | What I did |
+|---|---|
+| **Event memory-sharing app** | Sole RN engineer — full architecture, concurrent media upload pipeline, iOS App Clips, universal deep linking, CMS-managed UI |
+| **Multi-tenant fintech platform** | Frontend lead — micro-frontends, KYC/KYB onboarding, LTR/RTL (Arabic · Hebrew · English), server-enforced permissions across 5+ enterprise tenants |
+| **Darden Restaurants** *(Fortune 500)* | Core RN engineer on a platform-agnostic app across all 7 brands — owned deep linking &amp; geo-fencing; 99.9% crash-free, 20% faster load times |
+| **Lumica** | Consumer camera app — real-time analog filters (Vision Camera), Stripe in-app purchases, S3 photo delivery |
+
+➡️ Full case studies at **[tushardahiya.com](https://tushardahiya.com)**
+
+### 📊 GitHub
+
+<div align="center">
+
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushardahiya&show_icons=true&hide=contribs&hide_title=true&hide_border=true&theme=transparent&icon_color=0A66C2)
+
+</div>
+
+<div align="center">
+
+<sub>📍 Bengaluru, India · Open to remote</sub>
+
+</div>
